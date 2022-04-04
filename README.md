@@ -1,4 +1,4 @@
-# js-palidrome
+# js-palindrome
 This is a palindrome challenge developed in javascript.
 
 <h2>How to use</h2>
