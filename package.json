@@ -1,0 +1,22 @@
+{
+  "name": "js-palindrome",
+  "version": "1.0.0",
+  "description": "This is a simple library to check whether a string is a palindrome or not",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielSantanaRibeiro/js-palidrome.git"
+  },
+  "keywords": [
+    "palindrome"
+  ],
+  "author": "Daniel Santana Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielSantanaRibeiro/js-palidrome/issues"
+  },
+  "homepage": "https://github.com/DanielSantanaRibeiro/js-palidrome#readme"
+}
